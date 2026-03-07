@@ -5,7 +5,7 @@ CS Smart Customer Support Platform
 
 ## Member
 - Nguyen Minh Tri
-- Nhut Hao
+- Thach Nhut Hao
 - Ho Minh Tri
 
 ## Work Done This Week
