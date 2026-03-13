@@ -1,4 +1,4 @@
-package com.tri.cs_smart_platform;
+package com.cs_smart_platform;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
